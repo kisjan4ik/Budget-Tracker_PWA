@@ -3,13 +3,18 @@
   "short_name": "Notetaker",
   "icons": [
     {
-      "src": "assets/images/icons/icon-152x152.png",
-      "sizes": "152x152",
+      "src": "icons/icon-144x144.png",
+      "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "assets/images/icons/icon-192x192.png",
-      "sizes": "192x192",
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x452",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x169",
       "type": "image/png"
     }
   ],
